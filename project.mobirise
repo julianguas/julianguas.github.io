@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 70,
+    "uniqCompNum": 72,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -94,6 +94,50 @@
           "title": "About Me",
           "text": "<b>My name is Julian Alexander Guas. I am currently attending Miami Arts Studio in the Technical Production magnet strand. When I was in the 8th grade, I got my first laptop so that I could do my school work. As I used it, I wondered how these different programs worked and &nbsp;how I could use them to better my future. &nbsp;A few months later, I applied for Miami Arts Studio so that I can learn about more on these programs and start working to my future in technical production and digital media.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1w",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "My Story (More About Me)",
+          "meta": "\"I have Autism, whats your superpower ?\""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#000000"
+          },
+          "text": "When I was two years old, I was diagnosed with high-functioning autism. My parents were told that I would never go to regular school or get a high school diploma. Once my parents were told that I would never have a regular education, they knew to never give up on me and that they needed to prove many people wrong. After years of hardwork and dedication, I was able to overcome these obstacles and never gave up on anything that I set my mind to."
         },
         {
           "_styles": {
@@ -237,50 +281,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1w",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "showMeta": true
-          },
-          "title": "My Story (More About Me)",
-          "meta": "\"I have Autism, whats your superpower ?\""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "When I was two years old, I was diagnosed with high-functioning autism. My parents were told that I would never go to regular school or get a high school diploma. Once my parents were told that I would never have a regular education, they knew that they would never give up on me and proving many people wrong. These obsticles allowed me to be the hardworking and dedicated person that I am today.&nbsp;",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "DIV": {
-              "color": "#000000"
-            }
-          }
         },
         {
           "_inherit": "menu",
@@ -514,6 +514,36 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/buster3-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-2000x2500.jpg",
+                "caption": "",
+                "active": true
+              },
+              {
+                "tags": "Freshman Year",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/buster-4-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-2000x2500.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Freshman Year",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rainbow-connection-2000x1066-800x426.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rainbow-connection-2000x1066.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Freshman Year",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-sights-and-sounds-of-the-60s-2000x1545-800x618.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-sights-and-sounds-of-the-60s-2000x1545.jpg",
                 "caption": "",
@@ -557,7 +587,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-60s-poster-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-60s-poster-2000x2962.jpg",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -904,28 +934,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/buster3-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-2000x2500.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Freshman Year",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/buster-4-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-2000x2500.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Freshman Year",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rainbow-connection-2000x1066-800x426.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rainbow-connection-2000x1066.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/billboard-poster-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/billboard-poster-2000x2962.jpg",
                 "caption": "",
                 "active": false
               }
@@ -2226,7 +2236,7 @@
           "_params": {
             "labelsColor": "#ffffff",
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2268,6 +2278,26 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": ""
         }
       ]
     },
@@ -2374,6 +2404,14 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
@@ -2438,15 +2476,7 @@
             "showSubtitle": false
           },
           "title": "Reference<br>",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".card-footer > div": {
-              "color": "#ffffff"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         }
       ]
     }
