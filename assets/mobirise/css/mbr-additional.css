@@ -416,6 +416,19 @@ h6,
 #header2-18 .mbr-section-title {
   text-align: center;
 }
+#header3-1w .mbr-section-title,
+#header3-1w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1w H3 {
+  color: #ffffff;
+}
+#content1-1x P {
+  color: #ffffff;
+}
+#content1-1x DIV {
+  color: #ffffff;
+}
 #features4-1g .card-subtitle {
   color: #bcbcbc;
 }
@@ -428,19 +441,6 @@ h6,
 }
 #features4-1g P {
   color: #ffffff;
-}
-#header3-1w .mbr-section-title,
-#header3-1w .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1w H3 {
-  color: #000000;
-}
-#content1-1x P {
-  color: #ffffff;
-}
-#content1-1x DIV {
-  color: #000000;
 }
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
@@ -992,6 +992,10 @@ h6,
 }
 #form1-15 .mbr-section-title {
   color: #ffffff;
+}
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
 }
 
 #ext_menu-16 .hide-buttons .nav-btn {
