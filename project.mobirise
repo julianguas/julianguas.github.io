@@ -2635,7 +2635,7 @@
             "showTitle": true,
             "showText": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"@PROJECT_PATH@/documents/Discuss%20IT%20Topic%206.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Open PDF</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"julianguas.github.io/documents/Discuss IT Topic 6.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Open PDF</a>",
           "title": "Discuss it Topic 6",
           "text": "Cut down the development time with drag-and-drop website builder."
         }
