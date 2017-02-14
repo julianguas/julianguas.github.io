@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Julian Guas",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 91,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -536,7 +536,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000.jpg",
-                "caption": "",
+                "caption": "Youth Fair photo restoration competion before",
                 "active": false
               },
               {
@@ -546,7 +546,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000.jpg",
-                "caption": "",
+                "caption": "Youth Fair photo restoration competion after",
                 "active": false
               },
               {
@@ -556,7 +556,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rainbow-connection-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rainbow-connection-website-2000x2000.jpg",
-                "caption": "",
+                "caption": "Dreams showcase background",
                 "active": false
               },
               {
@@ -566,7 +566,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/wynwood-wall-revised-glow-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/wynwood-wall-revised-glow-website-2000x2000.jpg",
-                "caption": "",
+                "caption": "If Walls Could Talk poster&nbsp;",
                 "active": false
               },
               {
@@ -576,7 +576,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-sights-and-sounds-of-the-60s-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-sights-and-sounds-of-the-60s-website-2000x2000.jpg",
-                "caption": "",
+                "caption": "Sights and sounds of the 60's 3D perspective",
                 "active": false
               },
               {
@@ -586,7 +586,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/m-background-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/m-background-website-2000x2000.jpg",
-                "caption": "",
+                "caption": "M for Sights and sounds of the 60's 3D perspective",
                 "active": false
               },
               {
@@ -596,7 +596,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/a-background-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/a-background-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "A for Sights and sounds of the 60's 3D perspective",
                 "active": false
               },
               {
@@ -606,7 +606,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/s-background-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/s-background-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "S for Sights and sounds of the 60's 3D perspective",
                 "active": false
               },
               {
@@ -616,7 +616,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-60s-poster-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-60s-poster-website-2000x2000.jpg",
-                "caption": "",
+                "caption": "Sights and Sounds of the 60's Poster",
                 "active": false
               },
               {
@@ -626,7 +626,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-perspective-imagery-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-perspective-imagery-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Perspective Imagery of Abbey Road",
                 "active": false
               },
               {
@@ -636,7 +636,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Postage stamp illusion",
                 "active": false
               },
               {
@@ -646,7 +646,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Photoshop action (crop action) 1",
                 "active": false
               },
               {
@@ -656,7 +656,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Photoshop action (crop action) 2",
                 "active": false
               },
               {
@@ -666,7 +666,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Photoshop action (crop action) 3",
                 "active": false
               },
               {
@@ -676,7 +676,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/duckling-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/duckling-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Photoshop action (crop action) 4",
                 "active": false
               },
               {
@@ -686,7 +686,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-1-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000-1.jpg",
-                "caption": "Type caption here",
+                "caption": "Photoshop action (filter adjustment) 1",
                 "active": false
               },
               {
@@ -696,7 +696,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Photoshop action (filter adjustment) 2<br>",
                 "active": false
               },
               {
@@ -706,7 +706,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Photoshop action (filter adjustment) 3",
                 "active": false
               },
               {
@@ -716,7 +716,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/4-website-2000x2000.jpg",
-                "caption": "",
+                "caption": "Photoshop action (filter adjustment) 4",
                 "active": false
               },
               {
@@ -726,16 +726,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/5-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/5-website-2000x2000.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Freshman Year",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-2-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000-2.jpg",
                 "caption": "",
                 "active": false
               },
@@ -784,8 +774,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-3-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-2-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000-2.jpg",
                 "caption": "",
                 "active": false
               },
@@ -847,7 +837,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/brazilian-birds-website-2000x20008.jpg",
                 "caption": "",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Freshman Year",
@@ -967,11 +957,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/billboard-poster-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/billboard-poster-website-2000x2000.jpg",
                 "caption": "",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
@@ -1143,7 +1133,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lightning-bolt-2-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lightning-bolt-2-2000x2000.jpg",
-                "caption": "Lightning Bolt (first project)<br>",
+                "caption": "Lightning bolt (first project)<br>",
                 "active": false
               },
               {
@@ -1163,7 +1153,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000.jpg",
-                "caption": "Aruba Postcard",
+                "caption": "Aruba postcard",
                 "active": false
               },
               {
@@ -1173,7 +1163,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/doodle-for-google-website-2000x2000-1-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/doodle-for-google-website-2000x2000-1.jpg",
-                "caption": "Type caption here",
+                "caption": "Doodle for google comnpetion<br>",
                 "active": false
               },
               {
@@ -1223,7 +1213,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tattoo-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tattoo-website-2000x2000.jpg",
-                "caption": "Symetrical Tattoo",
+                "caption": "Symetrical tattoo",
                 "active": false
               },
               {
@@ -1233,7 +1223,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/maverick-mascot-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/maverick-mascot-website-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Maverick mascot for school competition",
                 "active": false
               },
               {
@@ -1243,7 +1233,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/engine-clamp-website-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/engine-clamp-website-2000x2000.jpg",
-                "caption": "Moter Clamp Blueprint",
+                "caption": "Motor clamp blueprint",
                 "active": true
               },
               {
@@ -1253,7 +1243,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-1-2000x2000-1-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mdcps-logo-1-2000x2000-1.jpg",
-                "caption": "Type caption here",
+                "caption": "MDCPS logo competion pt. 1",
                 "active": false
               },
               {
@@ -1263,12 +1253,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "MDCPS logo competition pt.2",
                 "active": false
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
