@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 82,
+    "uniqCompNum": 91,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -61,7 +61,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -91,7 +91,7 @@
               "size": 250
             }
           },
-          "title": "About Me",
+          "title": "About Me<br>",
           "text": "<b>My name is Julian Alexander Guas. I am currently attending Miami Arts Studio in the Technical Production magnet strand. When I was in the 8th grade, I got my first laptop so that I could do my school work. As I used it, I wondered how these different programs worked and &nbsp;how I could use them to better my future. &nbsp;A few months later, I applied for Miami Arts Studio so that I can learn about more on these programs and start working to my future in technical production and digital media.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -373,7 +373,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"123d.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Creative Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"123d.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Microsoft Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julianguas.github.io/documents/Ai Certification.pdf\" target=\"_blank\">Adobe Illustrator</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reference.html\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"123d.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Creative Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"123d.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Microsoft Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julianguas.github.io/documents/Ai Certification.pdf\" target=\"_blank\">Adobe Illustrator</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reference.html\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -387,7 +387,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#232323",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -534,8 +534,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/buster3-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-2000x2500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -544,8 +544,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/buster-4-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-2000x2500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -554,8 +554,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rainbow-connection-2000x1066-800x426.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rainbow-connection-2000x1066.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rainbow-connection-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rainbow-connection-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -564,18 +564,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wynwood-wall-revised-glow-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wynwood-wall-revised-glow-2000x2962.jpg",
-                "caption": "",
-                "active": true
-              },
-              {
-                "tags": "Freshman Year",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-sights-and-sounds-of-the-60s-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-sights-and-sounds-of-the-60s-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wynwood-wall-revised-glow-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wynwood-wall-revised-glow-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -584,8 +574,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/m-background-2000x2588-1-800x1035.png",
-                "image": "@PROJECT_PATH@/assets/images/m-background-2000x2588-1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-sights-and-sounds-of-the-60s-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-sights-and-sounds-of-the-60s-website-2000x2000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Freshman Year",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m-background-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/m-background-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -594,8 +594,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a-background-2000x3277-800x1310.png",
-                "image": "@PROJECT_PATH@/assets/images/a-background-2000x3277.png",
+                "thumb": "@PROJECT_PATH@/assets/images/a-background-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-background-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -604,8 +604,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-background-2000x4725-800x1890.png",
-                "image": "@PROJECT_PATH@/assets/images/s-background-2000x4725.png",
+                "thumb": "@PROJECT_PATH@/assets/images/s-background-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-background-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -614,8 +614,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-60s-poster-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-60s-poster-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-60s-poster-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-60s-poster-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -624,8 +624,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-perspective-imagery-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-perspective-imagery-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-perspective-imagery-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-perspective-imagery-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -634,8 +634,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-2000x2588-800x1035.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-2000x2588.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -644,8 +644,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -654,8 +654,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bengal-tiger-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -664,8 +664,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -674,8 +674,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/duckling-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/duckling-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/duckling-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duckling-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -684,8 +684,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1696-800x678.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1696.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -694,8 +694,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1246-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1246.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -704,8 +704,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -714,8 +714,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1246-1-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1246-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -724,8 +724,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1189-800x475.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-2000x1189.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -734,8 +734,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bald-eagle-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bald-eagle-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-2-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000-2.jpg",
                 "caption": "",
                 "active": false
               },
@@ -744,8 +744,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-2000x1250-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bengal-tiger-2000x1250.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000-1.jpg",
                 "caption": "",
                 "active": false
               },
@@ -754,8 +754,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -764,8 +764,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x2000-1.jpg",
                 "caption": "",
                 "active": false
               },
@@ -774,8 +774,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/duckling-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/duckling-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/duckling-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duckling-website-2000x2000-1.jpg",
                 "caption": "",
                 "active": false
               },
@@ -784,8 +784,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1696-1-800x678.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1696-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-3-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-website-2000x2000-3.jpg",
                 "caption": "",
                 "active": false
               },
@@ -794,8 +794,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1246-1-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1246-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-website-2000x2000-1.jpg",
                 "caption": "",
                 "active": false
               },
@@ -804,8 +804,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1246-2-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1246-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-website-2000x2000-1.jpg",
                 "caption": "",
                 "active": false
               },
@@ -814,8 +814,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1189-1-800x475.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-2000x1189-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-website-2000x2000-1.jpg",
                 "caption": "",
                 "active": false
               },
@@ -824,8 +824,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bald-eagle-2000x1125-1-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bald-eagle-2000x1125-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-website-2000x2000-1.jpg",
                 "caption": "",
                 "active": false
               },
@@ -834,8 +834,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-2000x1250-1-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bengal-tiger-2000x1250-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000-2-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000-2.jpg",
                 "caption": "",
                 "active": false
               },
@@ -844,8 +844,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125-1-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-website-2000x20008.jpg",
                 "caption": "",
                 "active": false
               },
@@ -854,8 +854,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-1-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x20009.jpg",
                 "caption": "",
                 "active": false
               },
@@ -864,8 +864,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/duckling-2000x1125-1-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/duckling-2000x1125-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/duckling-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duckling-website-2000x200010.jpg",
                 "caption": "",
                 "active": false
               },
@@ -874,8 +874,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1696-2-800x678.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1696-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-website-2000x200011.jpg",
                 "caption": "",
                 "active": false
               },
@@ -884,8 +884,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1246-2-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1246-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-website-2000x200012.jpg",
                 "caption": "",
                 "active": false
               },
@@ -894,8 +894,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1500-1-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1500-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-website-2000x200013.jpg",
                 "caption": "",
                 "active": false
               },
@@ -904,8 +904,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1246-3-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1246-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-website-2000x200014.jpg",
                 "caption": "",
                 "active": false
               },
@@ -914,8 +914,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bald-eagle-2000x1125-2-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bald-eagle-2000x1125-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bald-eagle-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bald-eagle-website-2000x2000.jpg",
                 "caption": "",
                 "active": false
               },
@@ -924,8 +924,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-2000x1250-2-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bengal-tiger-2000x1250-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bengal-tiger-website-2000x200015.jpg",
                 "caption": "",
                 "active": false
               },
@@ -934,8 +934,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125-2-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-website-2000x20008.jpg",
                 "caption": "",
                 "active": false
               },
@@ -944,8 +944,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-2-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-website-2000x20009.jpg",
                 "caption": "",
                 "active": false
               },
@@ -954,8 +954,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/duckling-2000x1125-2-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/duckling-2000x1125-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/duckling-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duckling-website-2000x200010.jpg",
                 "caption": "",
                 "active": false
               },
@@ -964,10 +964,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/billboard-poster-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/billboard-poster-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/billboard-poster-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/billboard-poster-website-2000x2000.jpg",
                 "caption": "",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -994,7 +994,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#232323",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1141,8 +1141,98 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lightning-bolt-2000x1086-800x434.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lightning-bolt-2000x1086.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lightning-bolt-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lightning-bolt-2-2000x2000.jpg",
+                "caption": "Lightning Bolt (first project)<br>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vw-logo-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vw-logo-2-2000x2000.jpg",
+                "caption": "Reprodouction of the Volkswagon logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000.jpg",
+                "caption": "Aruba Postcard",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/doodle-for-google-website-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/doodle-for-google-website-2000x2000-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/face-2-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/face-2-website-2000x2000.jpg",
+                "caption": "Modeling a face<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-faces-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-faces-website-2000x2000.jpg",
+                "caption": "Modeling my face",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vintage-tv-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vintage-tv-website-2000x2000.jpg",
+                "caption": "Vintage T.V",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vintage-television-lol-01-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vintage-television-lol-01-website-2000x2000.jpg",
+                "caption": "Politicaly Correct Vintage T.V",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-website-2000x2000.jpg",
+                "caption": "Symetrical Tattoo",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maverick-mascot-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maverick-mascot-website-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1151,108 +1241,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vw-logo-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/vw-logo-2000x2000.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-postcard-revised-2000x1323-800x529.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-postcard-revised-2000x1323.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-postcard-revised-2000x1313-800x525.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-postcard-revised-2000x1313.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-doodle-for-google-2000x802-800x320.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-doodle-for-google-2000x802.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/face-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/face-2-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-faces-2000x844-800x337.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-faces-2000x844.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vintage-television-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vintage-television-2000x1498.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tattoo-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tattoo-1-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/maverick-mascot-2000x1598-1-800x639.jpg",
-                "image": "@PROJECT_PATH@/assets/images/maverick-mascot-2000x1598-1.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/engine-clamp-website-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/engine-clamp-website-2000x2000.jpg",
+                "caption": "Moter Clamp Blueprint",
+                "active": true
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-1-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/engine-clamp-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/engine-clamp-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-1-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-1-2000x2000-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1261,20 +1261,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2-2000x3445-800x1378.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2-2000x3445.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vintage-television-lol-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vintage-television-lol-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": true
               }
             ],
             "spacing": 1,
@@ -2399,7 +2389,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#232323",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2706,7 +2696,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"123d.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Creative Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"123d.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Microsoft Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julianguas.github.io/documents/Ai Certification.pdf\" target=\"_blank\">Adobe Illustrator</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reference.html\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"123d.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Creative Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe Animate&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dreamweaver.html\">Adobe Dreamweaver&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"123d.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Microsoft Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julianguas.github.io/documents/Ai Certification.pdf\" target=\"_blank\">Adobe Illustrator</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reference.html\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -2781,7 +2771,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#232323",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
