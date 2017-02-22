@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
@@ -78,7 +78,7 @@
           },
           "title": "Julian A. Guas",
           "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"I have autism, what's your superpower?\"~ Anonymous",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
         },
         {
           "_inherit": "header2",
@@ -3315,16 +3315,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-7-2000x1388-800x555.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-7-2000x1388.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-8-2000x1388-800x555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-8-2000x1388.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
