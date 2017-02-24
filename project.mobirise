@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Julian Guas",
-    "currentPage": "timelapse.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 124,
-    "versionPublish": "3.10.5",
+    "uniqCompNum": 131,
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -124,10 +125,10 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=AeoKhcc1zsQ",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -135,7 +136,7 @@
               "size": 250
             }
           },
-          "title": "Intro Video<br>",
+          "title": "Intro Video",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -224,6 +225,33 @@
           "_anchor": "gallery3-2n",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCvZBPWDSTIk4oBoy99JS9Ow\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
@@ -528,7 +556,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x200012.jpg",
                 "caption": "Youth Fair photo restoration competion before",
                 "active": false
               },
@@ -538,7 +566,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x200013.jpg",
                 "caption": "Youth Fair photo restoration competion after",
                 "active": false
               },
@@ -628,7 +656,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x20002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x200014.jpg",
                 "caption": "Postage stamp illusion",
                 "active": false
               },
@@ -1215,7 +1243,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x20003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x200015.jpg",
                 "caption": "Aruba postcard",
                 "active": false
               },
