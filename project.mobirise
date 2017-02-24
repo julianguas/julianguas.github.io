@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 118,
+    "uniqCompNum": 124,
     "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -99,7 +99,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/other-background-2000x1500.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2635,7 +2635,7 @@
           },
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "~",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -2645,11 +2645,11 @@
                   "active": true
                 }
               },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
+              "authorName": "~",
+              "authorBio": "~"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "~",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -2659,11 +2659,11 @@
                   "active": true
                 }
               },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
+              "authorName": "~",
+              "authorBio": "~"
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "~",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -2673,8 +2673,8 @@
                   "active": true
                 }
               },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
+              "authorName": "~",
+              "authorBio": "~"
             }
           ],
           "_anchor": "testimonials1-17",
@@ -3022,9 +3022,9 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2x",
+          "_anchor": "header3-3c",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "6",
             "paddingBottom": 1,
             "bgColor": "#000000",
             "showMeta": false
@@ -3036,22 +3036,59 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
+          "_name": "msg-box5",
           "_styles": {
             "P": {
               "color": "#ffffff"
-            },
-            "DIV": {
-              "color": "#ffffff"
             }
           },
-          "_anchor": "content1-33",
+          "_anchor": "msg-box5-3f",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#000000"
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p>When I was two years old, I was diagnosed with high-functioning autism. My parents were told that I would never go to regular school or get a high school diploma. Once my parents were told that I would never have a regular education, they knew to never give up on me and that they needed to prove many people wrong. After years of hardwork and dedication, I was able to overcome these obstacles and never gave up on anything that I set my mind to.</p><p>&nbsp;I am currently attending Miami Arts Studio in the Technical Production magnet strand. When I was in the 8th grade, I got my first laptop so that I could do my school work. As I used it, I wondered how these different programs worked and  how I could use them to better my future.  A few months later, I applied for Miami Arts Studio so that I can learn about more on these programs and start working to my future in technical production and digital media.</p><p><br></p>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/me-1-1400x1152.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "When I was two years old, I was diagnosed with high-functioning autism. My parents were told that I would never go to regular school or get a high school diploma. Once my parents were told that I would never have a regular education, they knew to never give up on me and that they needed to prove many people wrong. After years of hardwork and dedication, I was able to overcome these obstacles and never gave up on anything that I set my mind to.<br> I am currently attending Miami Arts Studio in the Technical Production magnet strand. When I was in the 8th grade, I got my first laptop so that I could do my school work. As I used it, I wondered how these different programs worked and how I could use them to better my future. A few months later, I applied for Miami Arts Studio so that I can learn about more on these programs and start working to my future in technical production and digital media.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -3325,16 +3362,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-8-2000x1388-800x555.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-8-2000x1388.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-9-2000x1388-800x555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-9-2000x1388.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
