@@ -423,10 +423,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#msg-box8-4l .mbr-section-title,
-#msg-box8-4l p {
-  color: #fff;
-}
 #header3-4m .mbr-section-title,
 #header3-4m .mbr-section-subtitle {
   text-align: center;
@@ -437,6 +433,15 @@ h6,
 #header1-2k .mbr-section-lead {
   font-family: 'Roboto Condensed', sans-serif;
   text-align: center;
+}
+#header3-4s .mbr-section-title,
+#header3-4s .mbr-section-subtitle {
+  text-align: center;
+}
+#content8-4r .mbr-section-title,
+#content8-4r p {
+  text-align: right;
+  color: #fff;
 }
 #header3-3q .mbr-section-title,
 #header3-3q .mbr-section-subtitle {
