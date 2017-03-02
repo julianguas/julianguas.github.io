@@ -447,7 +447,18 @@ h6,
 #header3-51 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-5b .mbr-section-title,
+#header3-5b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5b H3 {
+  color: #ffffff;
+}
 #gallery3-2n .mbr-gallery-item > div > span {
+  text-align: center;
+}
+#header3-5c .mbr-section-title,
+#header3-5c .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons4-3m .mbr-section-title,
@@ -1207,6 +1218,12 @@ h6,
 #header3-3z .mbr-section-title,
 #header3-3z .mbr-section-subtitle {
   text-align: center;
+}
+#form2-5a .mbr-section-title {
+  color: #fff;
+}
+#form2-5a .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 
 #header3-39 .mbr-section-title,
