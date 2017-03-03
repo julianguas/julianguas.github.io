@@ -600,6 +600,17 @@ h6,
 #gallery3-t .mbr-gallery-item > div > span {
   text-align: center;
 }
+#header3-5f .mbr-section-title,
+#header3-5f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5e .mbr-section-title,
+#header3-5e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5e H3 {
+  color: #ffffff;
+}
 #header3-53 .mbr-section-title,
 #header3-53 .mbr-section-subtitle {
   text-align: center;
