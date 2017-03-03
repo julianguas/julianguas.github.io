@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 199,
+    "uniqCompNum": 204,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -110,51 +110,42 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-50",
+          "_anchor": "header3-5l",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#333333",
+            "bgColor": "#414141",
             "showMeta": false
           },
           "title": "",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "_inherit": "content5",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-4r",
+          "_name": "image2",
+          "_anchor": "image2-5m",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/AeoKhcc1zsQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": false
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showText": false
           },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=AeoKhcc1zsQ",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true,
+              "aspectratio": "16:9"
+            }
+          },
+          "text": ""
         },
         {
           "_styles": {
@@ -166,7 +157,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-51",
+          "_anchor": "header3-5n",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
@@ -550,7 +541,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -610,7 +601,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20006.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000141.jpg",
                 "caption": "Youth Fair Photo Restoration Competion Before",
                 "active": false
               },
@@ -620,7 +611,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20007.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000142.jpg",
                 "caption": "Youth Fair Photo Restoration Competion After",
                 "active": false
               },
@@ -710,7 +701,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x20008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000143.jpg",
                 "caption": "Postage stamp illusion",
                 "active": false
               },
@@ -1310,7 +1301,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x20009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000144.jpg",
                 "caption": "Aruba postcard",
                 "active": false
               },
@@ -1594,7 +1585,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1861,7 +1852,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2171,7 +2162,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2481,7 +2472,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2791,7 +2782,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3061,7 +3052,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3313,7 +3304,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3414,7 +3405,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3827,8 +3818,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-1-2000x1388-800x55510.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-1-2000x138821.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-1-2000x1388-800x555145.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-1-2000x1388156.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3837,8 +3828,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-2-2000x1388-800x55511.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-2-2000x138822.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-2-2000x1388-800x555146.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-2-2000x1388157.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3847,8 +3838,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-3-2000x1388-800x55512.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-3-2000x138823.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-3-2000x1388-800x555147.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-3-2000x1388158.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3857,8 +3848,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-4-2000x1388-800x55513.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-4-2000x138824.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-4-2000x1388-800x555148.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-4-2000x1388159.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3867,8 +3858,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-6-2000x1388-800x55514.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-6-2000x138825.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-6-2000x1388-800x555149.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-6-2000x1388160.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3877,8 +3868,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-7-2000x1388-800x55515.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-7-2000x138826.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-7-2000x1388-800x555150.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-7-2000x1388161.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3887,8 +3878,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-8-2000x1388-800x55516.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-8-2000x138827.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-8-2000x1388-800x555151.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-8-2000x1388162.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3897,8 +3888,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-9-2000x1388-800x55517.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-9-2000x138828.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-9-2000x1388-800x555152.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-9-2000x1388163.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3907,8 +3898,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-10-2000x1388-800x55518.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-10-2000x138829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-10-2000x1388-800x555153.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-10-2000x1388164.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3917,8 +3908,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-12-2000x1388-800x55519.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-12-2000x138830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-12-2000x1388-800x555154.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-12-2000x1388165.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3927,8 +3918,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-13-2000x1388-800x55520.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guas-13-2000x138831.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-13-2000x1388-800x555155.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-13-2000x1388166.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -4092,7 +4083,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-256x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-256x128140.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
