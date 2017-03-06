@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Julian Guas",
-    "currentPage": "index.html",
+    "currentPage": "biography.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 206,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -3560,7 +3559,7 @@
               "newWindow": false
             }
           },
-          "title2": "Volunteerind for the Autism Society of Florida",
+          "title2": "Volunteering for the Autism Society of Florida",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "I want to continue my involvement with the Autism Society of Florida and become a part of their board. Bringing awareness to schools.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
