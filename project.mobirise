@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Julian Guas",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1179,6 +1179,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-17-2000x1388-800x555.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-17-2000x1388.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-18-2000x1388-800x555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-18-2000x1388.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
