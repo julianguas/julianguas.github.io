@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Julian Guas",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -944,7 +944,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/duckling-website-4-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/duckling-website-4-2000x2000.jpg",
                 "caption": "Photoshop Actions (Tint Adjustment Pt 7)",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Freshman Year",
@@ -955,6 +955,16 @@
                 "image": "@PROJECT_PATH@/assets/images/billboard-poster-website-2000x2000.jpg",
                 "caption": "Orchestra Strand Pop Concert Poster",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-19-2000x1388-800x555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-19-2000x1388.jpg",
+                "caption": "The Girl Before The Mirror Masterpiece Reproduction (Completed)",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -1189,6 +1199,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guas-18-2000x1388-800x555.jpg",
                 "image": "@PROJECT_PATH@/assets/images/julian-guas-18-2000x1388.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/julian-guas-19-2000x1388-800x555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-guas-19-2000x1388.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
