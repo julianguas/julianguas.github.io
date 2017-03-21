@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 207,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 208,
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -121,31 +122,61 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-5m",
+          "_name": "header6",
+          "_anchor": "header6-5r",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "imageSize": "49",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
             "bgColor": "#000000",
-            "showText": false
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=AeoKhcc1zsQ",
-              "autoplay": "on",
-              "loop": "on",
               "active": true,
-              "aspectratio": "16:9"
+              "src": "https://youtu.be/g8lHZX4K35U",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
             }
           },
-          "text": ""
+          "title": "Rough Draft Intro",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -601,7 +632,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x200012.jpg",
                 "caption": "Youth Fair Photo Restoration Competion Before",
                 "active": false
               },
@@ -611,7 +642,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x200013.jpg",
                 "caption": "Youth Fair Photo Restoration Competion After",
                 "active": false
               },
@@ -701,7 +732,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x200010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x200014.jpg",
                 "caption": "Postage stamp illusion",
                 "active": false
               },
@@ -1473,7 +1504,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x200011.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x200015.jpg",
                 "caption": "Aruba postcard",
                 "active": false
               },
