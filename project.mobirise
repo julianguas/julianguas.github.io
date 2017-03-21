@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Julian Guas",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -601,7 +601,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x200012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20004.jpg",
                 "caption": "Youth Fair Photo Restoration Competion Before",
                 "active": false
               },
@@ -611,7 +611,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x200013.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20005.jpg",
                 "caption": "Youth Fair Photo Restoration Competion After",
                 "active": false
               },
@@ -701,7 +701,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x200014.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x20006.jpg",
                 "caption": "Postage stamp illusion",
                 "active": false
               },
@@ -1018,7 +1018,7 @@
             "bgColor": "#000000",
             "showMeta": false
           },
-          "title": "Timelapse",
+          "title": "Timelapse<br>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1034,7 +1034,7 @@
           "_params": {
             "autoplay": true,
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "timeout": "5",
             "slides": [
               {
@@ -1046,8 +1046,8 @@
                 "overlayOpacity": "0.2",
                 "overlayColor": "#000000",
                 "contentAlign": "center",
-                "showTitle": false,
-                "title": ".&nbsp;",
+                "showTitle": true,
+                "title": "The Girl Before The Mirror&nbsp;",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -1473,7 +1473,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x200015.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x20007.jpg",
                 "caption": "Aruba postcard",
                 "active": false
               },
