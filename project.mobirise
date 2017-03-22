@@ -163,7 +163,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/g8lHZX4K35U",
+              "src": "https://youtu.be/uad-tvWLFyA",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
@@ -632,7 +632,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x200012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20004.jpg",
                 "caption": "Youth Fair Photo Restoration Competion Before",
                 "active": false
               },
@@ -642,7 +642,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x200013.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20005.jpg",
                 "caption": "Youth Fair Photo Restoration Competion After",
                 "active": false
               },
@@ -732,7 +732,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x200014.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x20006.jpg",
                 "caption": "Postage stamp illusion",
                 "active": false
               },
@@ -1504,7 +1504,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x200015.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x20007.jpg",
                 "caption": "Aruba postcard",
                 "active": false
               },
