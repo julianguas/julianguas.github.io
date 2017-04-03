@@ -151,7 +151,7 @@
             "showText": false,
             "showButton": true
           },
-          "title": "Intro Video",
+          "title": "My Story",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/iaZ8ppGLErk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>"
         },
@@ -609,7 +609,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20000.jpg",
                 "caption": "Youth Fair Photo Restoration Competion Before",
                 "active": false
               },
@@ -619,7 +619,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20005.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20001.jpg",
                 "caption": "Youth Fair Photo Restoration Competion After",
                 "active": false
               },
@@ -709,7 +709,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x20006.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x20002.jpg",
                 "caption": "Postage stamp illusion",
                 "active": false
               },
@@ -1481,7 +1481,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x20007.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x20003.jpg",
                 "caption": "Aruba postcard",
                 "active": false
               },
