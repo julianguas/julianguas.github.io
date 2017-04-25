@@ -773,8 +773,20 @@ h6,
 #header3-1q H3 {
   color: #ffffff;
 }
-#header3-58 .mbr-section-title,
-#header3-58 .mbr-section-subtitle {
+#header3-63 .mbr-section-title,
+#header3-63 .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-62 .mbr-section-title,
+#msg-box8-62 p {
+  color: #fff;
+}
+#msg-box8-64 .mbr-section-title,
+#msg-box8-64 p {
+  color: #fff;
+}
+#header3-65 .mbr-section-title,
+#header3-65 .mbr-section-subtitle {
   text-align: center;
 }
 #ext_menu-36 .hide-buttons .nav-btn {
