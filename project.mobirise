@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 226,
+    "uniqCompNum": 233,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -609,7 +609,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster3-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster3-website-2000x20004.jpg",
                 "caption": "Youth Fair Photo Restoration Competion Before",
                 "active": false
               },
@@ -619,7 +619,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/buster-4-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/buster-4-website-2000x20005.jpg",
                 "caption": "Youth Fair Photo Restoration Competion After",
                 "active": false
               },
@@ -709,7 +709,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x20002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-illusion-2-website-2000x20006.jpg",
                 "caption": "Postage stamp illusion",
                 "active": false
               },
@@ -1491,7 +1491,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x20003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aruba-postcard-2-2000x20007.jpg",
                 "caption": "Aruba postcard",
                 "active": false
               },
@@ -2130,38 +2130,40 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-62",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-6b",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "inverse": false,
+            "showButtons": true,
             "showText": false,
-            "showButton": true
+            "showTitle": true
           },
-          "title": "Imagine Dragons Competition",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/a1PGYHgzuRw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/a1PGYHgzuRw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Imagine Dragons",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -2184,183 +2186,184 @@
           "text": "Copyright (c) 2017 Julian Alexander Guas."
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-64",
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box1-6c",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "inverse": false,
+            "showButtons": true,
             "showText": false,
-            "showButton": true
+            "showTitle": true
           },
-          "title": "A Thousand Million Reasons",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=RQSMQJRBgnk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/a1PGYHgzuRw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "A Thousand Million Reasons"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-66",
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box1-6d",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "inverse": false,
+            "showButtons": true,
             "showText": false,
-            "showButton": true
+            "showTitle": true
           },
-          "title": "Dream in a Dream (Group Project)",
-          "text": "Grou",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/FAiTjczmTOE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/FAiTjczmTOE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Dream in a Dream (Group Project"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-67",
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box1-6e",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "inverse": false,
+            "showButtons": true,
             "showText": false,
-            "showButton": true
+            "showTitle": true
           },
-          "title": "Animated Logo",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=kJYEclrpSio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=kJYEclrpSio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Intro For Tech/Broadcasting Show"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-68",
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box1-6f",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "inverse": false,
+            "showButtons": true,
             "showText": false,
-            "showButton": true
+            "showTitle": true
           },
-          "title": "Outro&nbsp;",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=dX2B43URJC0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=dX2B43URJC0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Outro For Tech/Broadcasting Show"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-69",
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box1-6g",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "inverse": false,
+            "showButtons": true,
             "showText": false,
-            "showButton": true
+            "showTitle": true
           },
-          "title": "Film Sample From Tech/Broadcasting Showcase",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/Mg5h2TtpPCQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/Mg5h2TtpPCQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Film Sample From Tech/Broadcasting Showcase"
         },
         {
           "_styles": {
